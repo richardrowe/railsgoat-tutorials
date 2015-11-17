@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a654879-ebfb-4667-b939-106a2326f68a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/railsgoat-wiki.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-Command-Injection.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-Injection.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Concatentation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Interpolation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards-(redirect_to).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Broken-Authentication-and-Session-Management.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Credential-Enumeration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Insecure-Compare-and-Timing-Attacks.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Lack-of-HttpOnly-Flag.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Lack-of-Password-Complexity.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting-DOM-Based.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-XSS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A4-IDOR.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A4-Insecure-Direct-Object-Reference.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-JSON-Escaping.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-Modification.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfiguration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A8-CSRF.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A8-Cross-Site-Request-Forgery.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Constantize.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/_Footer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-logic-flaws.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-mass-assignment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-metaprogramming.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/r3_tutorials.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A1-Injection.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A1-SQL-Injection-Concatentation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A5-Security-Misconfiguration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A8-CSRF.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A8-Cross-Site-Request-Forgery.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-Extras-Mass-Assignment-Admin-Role.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-extras-mass-assignment.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/r4_tutorials.md" />
+    </list>
+    <ignored path="railsgoat-wiki.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="railsgoat-wiki" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.017857">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.178572">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.089286">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A8-CSRF.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A8-CSRF.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.357143">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.035714">
+              <caret line="30" column="232" selection-start-line="30" selection-start-column="232" selection-end-line="30" selection-end-column="232" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extras-Broken-Regular-Expression.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.178572">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extras-Constantize.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Constantize.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.178572">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Extras-Mass-Assignment-Admin-Role.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5324357">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rails_3/A1-Command-Injection.md" />
+        <option value="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Interpolation.md" />
+        <option value="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards-(redirect_to).md" />
+        <option value="$PROJECT_DIR$/rails_3/A2-Credential-Enumeration.md" />
+        <option value="$PROJECT_DIR$/rails_3/A2-Insecure-Compare-and-Timing-Attacks.md" />
+        <option value="$PROJECT_DIR$/rails_3/A2-Lack-of-HttpOnly-Flag.md" />
+        <option value="$PROJECT_DIR$/rails_3/A2-Lack-of-Password-Complexity.md" />
+        <option value="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting-DOM-Based.md" />
+        <option value="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting.md" />
+        <option value="$PROJECT_DIR$/rails_3/A4-Insecure-Direct-Object-Reference.md" />
+        <option value="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-JSON-Escaping.md" />
+        <option value="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-Modification.md" />
+        <option value="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" />
+        <option value="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" />
+        <option value="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" />
+        <option value="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" />
+        <option value="$PROJECT_DIR$/rails_3/A8-CSRF.md" />
+        <option value="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" />
+        <option value="$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md" />
+        <option value="$PROJECT_DIR$/rails_3/Extras-Constantize.md" />
+        <option value="$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" />
+        <option value="$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rails_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railsgoat-wiki" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rails_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a654879-ebfb-4667-b939-106a2326f68a" name="Default" comment="" />
+      <created>1447794100378</created>
+      <option name="number" value="Default" />
+      <updated>1447794100378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rails_4/R4-A5-Security-Misconfiguration.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_4/R4-A8-Cross-Site-Request-Forgery.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_4/R4-extras-mass-assignment.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_4/R4-A1-SQL-Injection-Concatentation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_4/R4-A1-Injection.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_4/r4_tutorials.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A1-Command-Injection.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.232142">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A1-SQL-Injection-Interpolation.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.517858">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards-(redirect_to).md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.839286">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A2-Credential-Enumeration.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.642858">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A2-Insecure-Compare-and-Timing-Attacks.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.428571">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A2-Lack-of-HttpOnly-Flag.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9464285">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A2-Lack-of-Password-Complexity.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.285714">
+          <caret line="16" column="192" selection-start-line="16" selection-start-column="192" selection-end-line="16" selection-end-column="192" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting-DOM-Based.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.428571">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.232143">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A4-Insecure-Direct-Object-Reference.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.553571">
+          <caret line="17" column="420" selection-start-line="17" selection-start-column="420" selection-end-line="17" selection-end-column="420" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A5-Security-Misconfig-JSON-Escaping.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.9464285">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A5-Security-Misconfig-Modification.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.482143">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.017857">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.178572">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.089286">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A8-CSRF.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.357143">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.035714">
+          <caret line="30" column="232" selection-start-line="30" selection-start-column="232" selection-end-line="30" selection-end-column="232" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.178572">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/Extras-Constantize.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.178572">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5324357">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
