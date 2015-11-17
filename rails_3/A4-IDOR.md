@@ -1,1 +1,0 @@
-[Insecure Direct Object Reference](./A4-Insecure-Direct-Object-Reference)

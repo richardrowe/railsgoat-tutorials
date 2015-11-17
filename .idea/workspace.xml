@@ -2,60 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a654879-ebfb-4667-b939-106a2326f68a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/railsgoat-wiki.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-Command-Injection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-Injection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Concatentation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Interpolation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards-(redirect_to).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Broken-Authentication-and-Session-Management.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Credential-Enumeration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Insecure-Compare-and-Timing-Attacks.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Lack-of-HttpOnly-Flag.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A2-Lack-of-Password-Complexity.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting-DOM-Based.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A3-XSS.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A4-IDOR.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A4-Insecure-Direct-Object-Reference.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-JSON-Escaping.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-Modification.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A5-Security-Misconfiguration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A8-CSRF.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A8-Cross-Site-Request-Forgery.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Constantize.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/_Footer.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-logic-flaws.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-mass-assignment.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/extras-metaprogramming.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_3/r3_tutorials.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A1-Injection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A1-SQL-Injection-Concatentation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A5-Security-Misconfiguration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A8-CSRF.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-A8-Cross-Site-Request-Forgery.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-Extras-Mass-Assignment-Admin-Role.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/R4-extras-mass-assignment.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rails_4/r4_tutorials.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A1-Command-Injection.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A1-Injection.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Concatentation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A1-SQL-Injection-Interpolation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards-(redirect_to).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A10-Unvalidated-Redirects-and-Forwards.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A2-Broken-Authentication-and-Session-Management.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A2-Credential-Enumeration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A2-Insecure-Compare-and-Timing-Attacks.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A2-Lack-of-HttpOnly-Flag.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A2-Lack-of-Password-Complexity.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting-DOM-Based.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A3-Cross-Site-Scripting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A3-XSS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A4-IDOR.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A4-Insecure-Direct-Object-Reference.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-JSON-Escaping.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A5-Security-Misconfig-Modification.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A5-Security-Misconfiguration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A8-CSRF.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A8-Cross-Site-Request-Forgery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/Extras-Constantize.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/_Footer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/extras-logic-flaws.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/extras-mass-assignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/extras-metaprogramming.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_3/r3_tutorials.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-A1-Injection.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-A1-SQL-Injection-Concatentation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-A5-Security-Misconfiguration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-A8-CSRF.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-A8-Cross-Site-Request-Forgery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-Extras-Mass-Assignment-Admin-Role.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/R4-extras-mass-assignment.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rails_4/r4_tutorials.md" afterPath="" />
     </list>
     <ignored path="railsgoat-wiki.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,138 +69,7 @@
     <favorites_list name="railsgoat-wiki" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Cleartext-Storage-SSNs.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.017857">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Insecure-Password-Storage.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
-              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A6-Sensitive-Data-Exposure-Model-Attributes-Exposure.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.178572">
-              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A7-Missing-Function-Level-Access-Control--(Admin-Controller).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A7-Missing-Function-Level-Access-Control--(Admin-Controller).md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.089286">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A8-CSRF.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A8-CSRF.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.357143">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/A9-Using-Components-with-Known-Vulnerabilities-(JQuery).md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.035714">
-              <caret line="30" column="232" selection-start-line="30" selection-start-column="232" selection-end-line="30" selection-end-column="232" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extras-Broken-Regular-Expression.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Broken-Regular-Expression.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.178572">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extras-Constantize.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Constantize.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extras-Logic-Flaws-Insecure-Encryption-Reuse.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.178572">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extras-Mass-Assignment-Admin-Role.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rails_3/Extras-Mass-Assignment-Admin-Role.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5324357">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -285,44 +147,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rails_4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="railsgoat-wiki" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rails_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -381,13 +205,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -665,7 +489,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rails_3/A8-CSRF.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.357143">
+        <state vertical-scroll-proportion="0.36719707">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
@@ -709,7 +533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rails_3/Extras-Logic-Flaws-Insecure-Encryption-Reuse.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.178572">
+        <state vertical-scroll-proportion="0.8347613">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding />
         </state>
